@@ -1,0 +1,12 @@
+#main{
+   width:40%;
+   border-radius: 15px;
+   -webkit-border-radius: 15px;
+   -moz-border-radius: 15px;
+   -ms-border-radius: 15px;
+   -o-border-radius: 15px;
+   box-sizing: border-box;
+   background-color: white;
+   display: flex;
+   height:60vh
+}
