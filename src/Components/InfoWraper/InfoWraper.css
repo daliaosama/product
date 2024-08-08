@@ -29,7 +29,7 @@
 h1,p{
     margin: 0;
 }
-@media  only screen and (min-width:375px) and (max-width:600px){
+@media  only screen and (min-width:344px) and (max-width:600px){
     #infowraper{
         height: 60%;
         width: 100%;

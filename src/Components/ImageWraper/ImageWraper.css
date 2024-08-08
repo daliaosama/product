@@ -16,7 +16,7 @@
     -ms-border-radius:15px 0 0 15px;
     -o-border-radius:15px 0 0 15px;
 }
-@media  only screen and (min-width:375px) and (max-width:600px){
+@media  only screen and (min-width:344px) and (max-width:600px){
     #image{
         height: 40%;
         width: 100%;
